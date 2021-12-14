@@ -1,0 +1,56 @@
+body{
+    background-color: #6ad5e4;
+}
+.header{
+    height: 50px;
+    font-size: 1cm; 
+    font-weight: bold;
+    border-style: solid;
+    border-color: #0a1172;
+    border-radius: 25px;
+}
+.aboutme{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-style: double;
+    border-radius: 25px;
+    border-width: 10px;
+    background-color: #0492c2;
+    border-color: #0a1172;
+    margin: 25px;
+    padding: 25px;
+}
+
+.myimage{
+    border-style: solid;
+    border-radius: 25px;
+}
+
+.allpaintings{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-style: double;
+    margin: 25px;
+    border-radius: 25px;
+    border-width: 10px;
+    border-color: #0a1172;
+    background-color: #0492c2;
+    flex-basis: 100%;
+}
+
+.eachpainting{
+    flex-basis: 40%;
+    margin-top: 30px;
+}
+
+.mypaintings{
+    border-style: solid;
+}
+
+.Artworks{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+}

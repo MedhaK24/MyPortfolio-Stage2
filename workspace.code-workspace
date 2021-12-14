@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Class49",
+			"path": "."
+		},
+		{
+			"name": "Icons",
+			"path": "../Icons"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Class49"
+	}
+}
